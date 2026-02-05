@@ -6,7 +6,7 @@ I am a results-oriented developer driven by **innovation** and a passion for **W
 
 Currently pursuing a **Bachelor's degree in Software Engineering**, I am actively seeking an **internship opportunity** to apply my knowledge in real-world scenarios, contribute effectively, and accelerate my professional growth.
 
-My core strengths include **problem-solving**, **logical thinking**, and a commitment to **continuous learning**. I have solid experience with **JavaScript**, the **React** and **Node.js** ecosystem, and I am continuously expanding my expertise, currently diving deep into **TypeScript**.
+My core strengths include **problem-solving**, **logical thinking**, and a commitment to **continuous learning**. I have solid experience with **JavaScript**, **TypeScript**, the **React**,  **Node.js**, **Next.js**.
 
 ***
 
@@ -16,16 +16,39 @@ A snapshot of the key technologies and tools I work with:
 
 | Frontend | Backend & Runtime | Database & ORM | Tools & Practices |
 | :---: | :---: | :---: | :---: |
-| **React.js** | **Node.js** | **MongoDB** | **Git / GitHub** |
-| JavaScript | Express.js | Mongoose ODM | JSON Web Token (JWT) |
-| HTML5 | Python | | Socket.io |
-| CSS/CSS3 | REST API | | Jest / Supertest |
+| **Next.js** | **Node.js** | **PostgreSQL** | **TypeScript** |
+| **React.js** | Express.js | PrismaORM | **Tailwind CSS** |
+| JavaScript | Express.js | **MongoDB** | JSON Web Token (JWT) |
+| HTML5 | Python | Mongoose ODM | Socket.io |
+| CSS/CSS3 | REST API | |  |
 
 ***
 
 ## 💡 Featured Projects
 
 These projects showcase my ability to develop comprehensive full-stack applications, emphasizing functionality and practical implementation.
+
+### Vitoria Beauty - E-commerce
+
+Vitória Beauty is a high-performance cosmetics e-commerce platform built with a modern full-stack Next.js ecosystem.
+The project focuses on delivering a smooth user experience, featuring instant page transitions, intelligent state management, and secure application architecture.
+
+* **Key Achievement:** Built a full-featured, mobile-first e-commerce with Next.js and TypeScript, implementing secure authentication, persistent carts, and complex relational data management for orders and addresses.
+* **Architecture:** Full Stack, Mobile-first.
+* **Key Tech:** **React.js**, **Node.js**, **Next.js**, **Tailwind**, **Prisma ORM**, **TypeScript**. **Auth.js**
+  
+<p align="center">
+  <a href="https://vitoria-beauty.vercel.app/" target="_blank">
+    <img src="https://github.com/sedran18/vitoria_beauty/blob/master/public/site.png?raw=true" alt="Image of home page of Vitoria Beauty" width="100%" />
+  </a>
+</p>
+
+| Repository | Live Site |
+| :---: | :---: |
+| [Vitoria Beauty Repository](https://github.com/sedran18/vitoria_beauty) | [View Application Live](https://vitoria-beauty.vercel.app/) |
+
+
+<br>
 
 
 ### 💬 S-Chat: Real-Time Communication Platform
@@ -46,26 +69,7 @@ A full-stack application developed to **master real-time communication** using W
 | :---: | :---: |
 | [S-Chat Repository](https://github.com/sedran18/S-Chat?tab=readme-ov-file) | [View Application Live](https://s-chat-frontend.onrender.com) |
 
-<br>
 
-### 💰 App de despesas
-
-A robust REST API designed for personal finance management, prioritizing security, clean architecture, and test-driven development.
-
-* **Key Tech:** **Node.js**, **Express.js**, **MongoDB**, **Mongoose**.
-* **Security & Testing:** Secure **JWT** authentication, password hashing (**bcrypt**), and a comprehensive automated testing suite with **Jest** and **Supertest**.
-
-<p align="center">
-  <a href="https://app-de-despesas.onrender.com" target="_blank">
-    <img src="https://github.com/sedran18/App-de-despesas/blob/main/images/criando_user.gif?raw=true" alt="GIF of user creation and transaction in the Expense API" width="100%"/>
-  </a>
-</p>
-
-| Repository | Test the API |
-| :---: | :---: |
-| [API Codebase](https://github.com/sedran18/App-de-despesas) | [Test Live API](https://app-de-despesas.onrender.com) |
-
-***
 
 ## 📈 GitHub Metrics
 
